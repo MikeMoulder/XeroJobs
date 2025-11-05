@@ -1,6 +1,6 @@
 # XeroJobs
 
-A sophisticated job-search agent built on top of the Sentient Agent Framework. XeroJobs is an agent that analyzes user prompts to determine if the user is looking for a job, extracts search parameters, queries a job API, and streams structured results back to the client. It is designed to assist the user with all forms of carrer assistant, be it career tips, jobs recommendations, interview preparations.
+A sophisticated job-search agent built on top of the Sentient Agent Framework. XeroJobs is an agent that analyzes user prompts to determine if the user is looking for a job, extracts search parameters, queries a job API, and streams structured results back to the client. It is designed to assist the user with all forms of carrer assistance, be it career tips, jobs recommendations, interview preparations.
 
 This repository contains the core agent logic, helper modules for analysis and job-API calls, and streaming response helpers.
 
